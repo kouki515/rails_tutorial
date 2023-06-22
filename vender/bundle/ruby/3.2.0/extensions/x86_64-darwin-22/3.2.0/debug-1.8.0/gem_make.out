@@ -1,0 +1,19 @@
+current directory: /Users/kouki/rails_tutorial/vender/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+/Users/kouki/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kouki/rails_tutorial/vender/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230622-4966-n4r3gb sitelibdir\=./.gem.20230622-4966-n4r3gb clean
+
+current directory: /Users/kouki/rails_tutorial/vender/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230622-4966-n4r3gb sitelibdir\=./.gem.20230622-4966-n4r3gb
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/kouki/rails_tutorial/vender/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230622-4966-n4r3gb sitelibdir\=./.gem.20230622-4966-n4r3gb install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20230622-4966-n4r3gb/debug
+
+current directory: /Users/kouki/rails_tutorial/vender/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230622-4966-n4r3gb sitelibdir\=./.gem.20230622-4966-n4r3gb clean
